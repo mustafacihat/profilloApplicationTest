@@ -25,8 +25,8 @@ public class LoginPage {
     }
 
     public void librarianLogin(){
-        usernameInput.sendKeys("librarian30@library");
-        passwordInput.sendKeys("e3BxcFKE",Keys.ENTER);
+        usernameInput.sendKeys("librarian31@library");
+        passwordInput.sendKeys("pogXBhac",Keys.ENTER);
     }
 
     public void studentLogin(){

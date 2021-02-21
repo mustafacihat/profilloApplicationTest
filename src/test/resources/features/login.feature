@@ -10,7 +10,6 @@ Feature: login functionality
       | librarian27@library | ZM9JMdIK |
       | librarian28@library | wVFVnaCO |
       | librarian29@library | PZ7IQ8G5 |
-      | librarian30@library | e3BxcFKE |
       | librarian31@library | pogXBhac |
       | librarian32@library | sRALQfSE |
       | librarian33@library | df6NfMib |

@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         plugin = {"html:target/failed-html-report"},
-        features = "@targer/rerun.txt",
+        features = "@target/rerun.txt",
         glue = "com/profillo/step_definitions"
 )
 public class FailedTestRunner {
